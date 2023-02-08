@@ -53,6 +53,5 @@ if __name__ == '__main__':
         [4, 6, 0, 3, 1]
     ]
 
-
     new_A = simplify(A)
     print(new_A)
